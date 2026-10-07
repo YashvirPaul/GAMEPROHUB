@@ -1,0 +1,6 @@
+{
+  "name": "ProductiveHub",
+  "description": "Make your life productive. Stop scrolling and just focus on your dreams. Brain-boosting free productivity and knowledge games for kids, teenagers, and adults.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
